@@ -10,7 +10,7 @@ label start:
 
    
 
-    scene bg room
+    scene bg river
 
     
 
